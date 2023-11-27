@@ -23,7 +23,7 @@ A classe Catalogo foi desenvolvida em Java para facilitar o gerenciamento de pro
 **Identificação do produto mais caro e mais barato.**
 **Orçamento para a compra de dois produtos específicos.**
 
-## Classes Relacionadas a Pessoas (Pacote: br.com.fiap.beans)
+## Classes Relacionadas a Pessoas
 **Classe Pessoa**
 Uma classe base representando uma pessoa com atributos comuns como nome, endereço e telefone.
 
