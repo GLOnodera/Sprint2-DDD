@@ -19,8 +19,11 @@ A classe Catalogo foi desenvolvida em Java para facilitar o gerenciamento de pro
 
 ## Inicialização do catálogo com produtos pré-definidos.
 **1. Adição de novos produtos ao catálogo.**
+
 **2. Listagem de todos os produtos.**
+
 **3. Identificação do produto mais caro e mais barato.**
+
 **4. Orçamento para a compra de dois produtos específicos.**
 
 ## Classes Relacionadas a Pessoas
