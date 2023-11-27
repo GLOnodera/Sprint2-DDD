@@ -39,5 +39,5 @@ Uma subclasse de Pessoa representando uma pessoa física, com um atributo adicio
 
 Outra subclasse de Pessoa representando uma pessoa jurídica, com um atributo adicional para o CNPJ.
 
-## Menu de Interação (Pacote: br.com.fiap.main)
+## Menu de Interação
 A classe MenuSalesforce fornece um menu interativo para interação com o catálogo de produtos e o cadastro de pessoas. As opções incluem listar produtos, identificar produtos com maior e menor valor, orçar a compra de dois produtos, cadastrar pessoas físicas ou jurídicas, listar pessoas cadastradas e encerrar o programa.
