@@ -18,19 +18,22 @@ Catálogo de Produtos (Pacote: br.com.fiap.beans)
 A classe Catalogo foi desenvolvida em Java para facilitar o gerenciamento de produtos. Algumas de suas funcionalidades incluem:
 
 ## Inicialização do catálogo com produtos pré-definidos.
-**Adição de novos produtos ao catálogo.**
-**Listagem de todos os produtos.**
-**Identificação do produto mais caro e mais barato.**
-**Orçamento para a compra de dois produtos específicos.**
+**1. Adição de novos produtos ao catálogo.**
+**2. Listagem de todos os produtos.**
+**3. Identificação do produto mais caro e mais barato.**
+**4. Orçamento para a compra de dois produtos específicos.**
 
 ## Classes Relacionadas a Pessoas
-**Classe Pessoa**
+**1. Classe Pessoa**
+
 Uma classe base representando uma pessoa com atributos comuns como nome, endereço e telefone.
 
-**Classe PessoaFisica**
+**2. Classe PessoaFisica**
+
 Uma subclasse de Pessoa representando uma pessoa física, com um atributo adicional para o CPF.
 
-**Classe PessoaJuridica**
+**3. Classe PessoaJuridica**
+
 Outra subclasse de Pessoa representando uma pessoa jurídica, com um atributo adicional para o CNPJ.
 
 ## Menu de Interação (Pacote: br.com.fiap.main)
